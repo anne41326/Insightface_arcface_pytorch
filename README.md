@@ -82,8 +82,11 @@ As seen, train folder(70% photos of original photos) and val folder(30% photos o
 
 ### Contribution and Restriction
 
-1.[arcface-pytorch](https://github.com/ronghuaiyang/arcface-pytorch)
-2.[Build-Your-Own-Face-Model](https://github.com/ColinFred/Build-Your-Own-Face-Model): there is a mistake on comment( actually is not `distance` ,but `similarity`)
+1. [arcface-pytorch](https://github.com/ronghuaiyang/arcface-pytorch)
+
+2. [Build-Your-Own-Face-Model](https://github.com/ColinFred/Build-Your-Own-Face-Model)
+: there is a mistake on comment
+( actually is not `distance` ,but `similarity`)
 * for more , please check
  https://blog.csdn.net/weixin_43977640/article/details/115579153
 https://www.cnblogs.com/suanec/p/9121092.html
