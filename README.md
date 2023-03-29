@@ -91,3 +91,5 @@ As seen, train folder(70% photos of original photos) and val folder(30% photos o
  https://blog.csdn.net/weixin_43977640/article/details/115579153
 https://www.cnblogs.com/suanec/p/9121092.html
 
+3. [split-folders](https://reurl.cc/WDA2L9)
+
